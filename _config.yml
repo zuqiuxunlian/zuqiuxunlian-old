@@ -32,7 +32,7 @@ owner:
     plus: +MichaelRoseDesign
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
-  disqus-shortname: true
+  disqus-shortname: zuqiuxunlian
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
