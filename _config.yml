@@ -5,7 +5,7 @@ description: "致力于提高足球技术的平台"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_CN
-url: //awong1900.github.io/football
+url: //localhost:4000
 
 # Jekyll configuration
 
@@ -32,7 +32,7 @@ owner:
     plus: +MichaelRoseDesign
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
-  disqus-shortname:
+  disqus-shortname: true
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
