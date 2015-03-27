@@ -3,7 +3,7 @@ layout: article
 title:  "join training!"
 categories: articles
 modified: 2014-02-19
-share: false
+share: true
 ads: true
 ---
 
