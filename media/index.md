@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
+title: "图片故事"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
+excerpt: "训练营相关图片和视频"
 tags: []
 image:
   feature:
