@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: 足球训练营
+title: 一起踢·足球训练营
 description: "致力于提高足球技术的平台"
 logo: 120x120.gif
 teaser: 400x250.gif
@@ -22,14 +22,14 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
+  name: Ten Wong
+  web: http://zuqiuxunlian.com
+  email: awong1900@163.com
+  twitter: awong1900
   bio: "Just another boring, tattooed, time traveling designer."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
+    plus: +Ten Wong
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
   disqus-shortname: zuqiuxunlian

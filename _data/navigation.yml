@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: 开始
+- title: 开始训练
   url: /getting-started/
   excerpt: "如何参加我们的训练."
-  image: 400x250.gif
+  image: start.jpg
 
-- title: 物件
+- title: 文章列表
   url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  excerpt: "最新发布的文章"
+  image: start.jpg
 
-- title: 媒体
+- title: 图片故事
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  excerpt: "最近发生的图片故事"
+  image: start.jpg
 
 - title: 关于我们
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
-  image: 400x250.gif
+  excerpt: "联系方式"
+  image: start.jpg
