@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature:football.jpg
+  feature:
   teaser:
   thumb:
 share: false
