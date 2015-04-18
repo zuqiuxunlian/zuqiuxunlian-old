@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "About"
+title: "关于我们"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+excerpt:
 image:
   feature:
   teaser:
@@ -12,6 +12,25 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+## 联系方式
+我们是一个快乐的组织。  
+发起人王腾，  
+微信号：awong1900  
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+## 商务合作
+我们有一个远大的想法，就是在全国都有我们的训练营。
+
+### 提供场地
+如果您可以提供免费场地，这可帮上大忙了。
+
+### 教练义工
+如果您是技术高手，甚至注册球员或者教练，欢迎来我们这里技术扶贫。
+
+### 商业赞助
+我们已经与很多学校单位有合作，另外与很多体育产品公司有洽谈业务。  
+我们提供主页广告展示，5000元/年。仅13.7元/天。
+
+### 捐款支持
+如果您支持我们的项目，可以捐款到支付宝账户：wangtengoo7@163.com  
+我们可以添置一些训练器材。   
+每一笔开销我们都会把账单邮件给您。
