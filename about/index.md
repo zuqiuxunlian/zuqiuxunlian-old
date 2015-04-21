@@ -8,8 +8,9 @@ image:
   feature:
   teaser:
   thumb:
+author: false
 share: false
-ads: false
+ads: true
 ---
 
 ## 联系方式
