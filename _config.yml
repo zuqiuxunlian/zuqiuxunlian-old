@@ -22,16 +22,16 @@ gems:
 
 # Site owner
 owner:
-  name: Ten Wong
+  name: 王腾
   web: http://zuqiuxunlian.com
   email: awong1900@163.com
   twitter: awong1900
-  bio: "Just another boring, tattooed, time traveling designer."
+  bio: ""
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: +Ten Wong
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
+    ad-client: pub-6914305251560584
+    ad-slot: 8359430622
   disqus-shortname: zuqiuxunlian
 
 
