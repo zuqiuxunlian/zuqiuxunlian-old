@@ -9,7 +9,9 @@ image:
   feature:
   teaser:
   thumb:
+author: false
 share: false
+comment: true
 ---
 
 ## 要求：
