@@ -8,9 +8,10 @@ tags: [战术]
 comments: true
 share: false
 ads: true
-image:
+image: 
   feature: 
-  teaser: 
+  teaser: 2015-04/one-two.jpg
+  
 ---
 
 前场二打一跑位配合
