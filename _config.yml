@@ -32,7 +32,6 @@ owner:
     plus: +Ten Wong
     ad-client: ca-pub-6914305251560584
     ad-slot: 9353650158
-  disqus-shortname: zuqiuxunlian
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
