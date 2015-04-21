@@ -11,7 +11,7 @@ image:
   thumb:
 author: false
 share: false
-comment: true
+comments: true
 ---
 
 ## 要求：
