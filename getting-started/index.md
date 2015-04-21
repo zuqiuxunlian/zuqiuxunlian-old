@@ -2,7 +2,7 @@
 layout: article
 title: "如何加入训练"
 date: 2015-04-02T13:57:25-04:00
-modified:
+modified: 2015-04-21
 excerpt:
 tags: []
 image:
