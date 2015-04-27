@@ -38,7 +38,6 @@ ads: true
 Q群或者微信报名
 
 ----------------------
-
 相关文章：  
 
 * [组织本地的训练营](http://zuqiuxunlian.com/articles/local-training-camp/)
