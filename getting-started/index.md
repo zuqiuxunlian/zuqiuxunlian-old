@@ -32,12 +32,15 @@ ads: true
 
 ## 时间地点：
 每周5晚上7点半到9点半     
-深圳大学城北大体育场
+深圳大学城北大体育场   
+点击[查看地图]({{ site.url }}/images/luxian.jpg)。
 
 ## 报名：
-Q群或者微信报名
+QQ群活动或者微信公众号回复报名  
+[关注微信公众号和加入QQ群]({{ site.url }}/articles/weixin/)
 
 ----------------------
 相关文章：  
 
-* [组织本地的训练营](http://zuqiuxunlian.com/articles/local-training-camp/)
+* [组织本地的训练营]({{ site.url }}/articles/local-training-camp/)
+* [关于我们]({{ site.url }}/about/)
