@@ -23,5 +23,5 @@ image:
 
 优酷，速度测试
 
-<iframe height="400" width="480" src="http://player.youku.com/embed/XOTU0NjcwMDI0" frameborder="0" allowfullscreen="true"></iframe>
+<iframe height="498" width="510" src="http://player.youku.com/embed/XOTU0NjcwMDI0" frameborder="0" allowfullscreen="true"></iframe>
 
