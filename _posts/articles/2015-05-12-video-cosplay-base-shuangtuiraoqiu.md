@@ -16,7 +16,8 @@ image:
 ---
 
 练习腹部肌肉。
-<iframe height="498" width="510" src="http://player.youku.com/embed/XOTU0NjcwMDI0" frameborder="0" allowfullscreen="true"></iframe>
+
+<iframe height="498" width="510" src="http://player.youku.com/embed/XOTU1MzA0NzA0" frameborder="0" allowfullscreen="true"></iframe>
 
 这是很好的热身动作，练习协调性。
 
