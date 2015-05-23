@@ -12,7 +12,8 @@ share: false
 comments: true
 image:
   feature:
-  teaser:
+  teaser: 2015-05/quxi.gif
+  
 ---
 
 练习腹部肌肉。
