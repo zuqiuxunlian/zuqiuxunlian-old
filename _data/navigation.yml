@@ -15,6 +15,11 @@
   excerpt: "最近发生的图片故事"
   image: start.jpg
 
+- title: 训友介绍
+  url: /friends/
+  excerpt: "可加入训练营朋友自己组建的球队"
+  image: start.jpg
+
 - title: 关于我们
   url: /about/
   excerpt: "联系方式"
