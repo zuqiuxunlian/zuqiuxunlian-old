@@ -3,7 +3,7 @@ layout: article
 title: "吴红军－训练营A队"
 categories: friends
 author: false
-excerpt: "福田体育公园"
+excerpt: "福田体育公园，按到场人数AA制。"
 modified: 2015-5-24
 tags: [球队]
 comments: true
@@ -28,9 +28,10 @@ image:
 
 ### 比赛地点和时间
 - 福田体育公园
-- 每周3晚上8:30 - 10:30
+- 每周3或周四晚上8:30 - 10:30
 
-### 比赛联络加微信群
+### 比赛联络
+- 吴红军，微信：whj13066818947
 
 
 
