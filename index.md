@@ -30,4 +30,3 @@ image:
 
 </div><!-- /.tiles -->
 
-[![Analytics](https://ga-beacon.appspot.com/UA-61411142-2/football)](https://github.com/igrigorik/ga-beacon)
