@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "组织本地的训练营"
+title: "[训练营Blog]组织本地的训练营"
 categories: articles
 author: false
 modified: 2014-08-27
