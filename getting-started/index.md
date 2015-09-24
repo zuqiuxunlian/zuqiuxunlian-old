@@ -43,6 +43,11 @@ ads: true
 	* 每周6早上7点半到10点半
 	* 球场为6人制人工草，建议选择TF
 	* [点击查看详细地图](http://mp.weixin.qq.com/s?__biz=MzA3MzczMzE2Mw==&mid=209199712&idx=2&sn=a8c9e7274e4d7aa270e79d1fef3f8cb5&scene=5#rd)
+
+3. 深圳沙井德冠庭训练营(试开营)
+	* 深圳沙井德冠庭足球场
+	* 每周1 晚上7点到9点
+	* 加QQ群报名：243462942
 	
 3. 广州，上海，北京训练营正在筹划
 	* [点击查看如何组织本地训练营]({{ site.url }}/articles/local-training-camp/)
