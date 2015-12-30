@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "吴红军－训练营A队"
+title: "吴红军－训练营A队(已停止)"
 categories: friends
 author: false
 excerpt: "福田体育公园，按到场人数AA制。"
@@ -10,9 +10,9 @@ comments: true
 share: false
 ads: true
 image:
-  feature: 
-  teaser: 
-  
+  feature:
+  teaser:
+
 ---
 
 吴红军，训练营队友，常常自己单独训练，并喜欢参加比赛。   
@@ -31,8 +31,4 @@ image:
 - 每周3或周四晚上8:30 - 10:30
 
 ### 比赛联络
-- 吴红军，微信：whj13066818947
-
-
-
-
+-
