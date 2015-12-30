@@ -10,11 +10,10 @@ comments: true
 share: false
 ads: true
 image:
-  feature: 
-  teaser: 
-  
+  feature:
+  teaser:
+
 ---
-**暂停招新**
 
 兄弟团足球队氛围好，球队整体技术不错。
 
@@ -29,8 +28,4 @@ image:
 - 比赛时间周5或者周6晚上。
 
 ### 比赛联络
-- 黄，微信：， 
 - QQ群，369486907
-
-[`在线修改`](https://github.com/awong1900/football/edit/gh-pages/_posts/friends/2015-07-06-xidituan.md)或者`留言反馈`
-{: .notice-info}

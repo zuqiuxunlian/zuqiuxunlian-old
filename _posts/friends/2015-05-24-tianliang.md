@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "阿政－龙华队"
+title: "阿政－天亮足球队"
 excerpt: "龙华，一周2赛，需要一定技术功底。"
 categories: friends
 author: false
@@ -10,12 +10,12 @@ comments: true
 share: false
 ads: true
 image:
-  feature: 
-  teaser: 
-  
+  feature:
+  teaser:
+
 ---
 
-阿政，小学就参加过市比赛，非常热爱足球。他组建的球队超过好几年。    
+队长，阿政，小学就参加过市比赛，非常热爱足球。他组建的球队超过好几年。在各项比赛中都能拿到名次。  
 球队一周2赛，强度很高，非常欢迎有技术功底的队友加入。
 
 {% include toc.html %}
@@ -30,9 +30,5 @@ image:
 - 石岩羊台山
 - 晚上7，8点左右
 
-### 比赛联络
+### 球队联络
 - 阿政，QQ：422728568
-
-
-
-
