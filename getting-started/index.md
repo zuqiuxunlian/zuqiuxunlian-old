@@ -34,7 +34,7 @@ ads: true
 
 1. 深圳西丽训练营
 	* 深圳西丽大学城北大体育场    
-	* 每周5晚上7点半到9点半
+	* ~~每周5晚上7点半到9点半~~,每周六晚上6点到8点     
 	* 球场为11人天然草，建议选择AG或以上    
 	* [点击查看详细地图](http://mp.weixin.qq.com/s?__biz=MzA3MzczMzE2Mw==&mid=209199712&idx=1&sn=f2ce2cd7ef17be27a1bba1f7bcf08fc9&scene=5#rd)
 
