@@ -6,6 +6,7 @@ logo: 120x120.gif
 teaser: start.jpg
 locale: en_CN
 url: //zuqiuxunlian.com
+cdn_url: //qiniu.zuqiuxunlian.com
 
 # Jekyll configuration
 
