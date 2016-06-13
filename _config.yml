@@ -6,7 +6,7 @@ logo: 120x120.gif
 teaser: start.jpg
 locale: en_CN
 url: //zuqiuxunlian.com
-cdn_url: //qiniu.zuqiuxunlian.com
+cdn_url: //o8pwo778o.qnssl.com
 
 # Jekyll configuration
 
@@ -24,7 +24,7 @@ gems:
 # Site owner
 owner:
   name: 王腾
-  web: http://zuqiuxunlian.com
+  web: https://zuqiuxunlian.com
   email: awong1900@163.com
   twitter: awong1900
   bio: ""
