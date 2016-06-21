@@ -6,7 +6,8 @@ logo: 120x120.gif
 teaser: start.jpg
 locale: en_CN
 url: //zuqiuxunlian.com
-cdn_url: //o8pwo778o.qnssl.com
+feed:
+  path: atom.xml
 
 # Jekyll configuration
 
@@ -19,22 +20,44 @@ kramdown:
 highlighter: rouge
 gems:
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
 
 # Site owner
 owner:
   name: 王腾
-  web: https://zuqiuxunlian.com
   email: awong1900@163.com
   twitter: awong1900
-  bio: ""
-  avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +Ten Wong
     ad-client: ca-pub-6914305251560584
     ad-slot: 9353650158
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
 
 analytics:
     baidu: 2a36203f824f2dff471775364d62fc7d
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .jekyll-assets-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
