@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "训友介绍"
+title: "加入球队"
 date: 2014-05-30T11:39:03-04:00
 modified:
 excerpt: "关于训练营的朋友组织的球队."
