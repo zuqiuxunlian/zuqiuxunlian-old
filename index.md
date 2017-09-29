@@ -10,12 +10,12 @@ image:
 
 <div class="tile">
   <h2 class="post-title">训练要求</h2>
-  <p class="post-excerpt">训练是完全免费的。 准备一双专业球鞋，一个标准足球，一瓶矿泉水，即可加入我们的训练。</p>
+  <p class="post-excerpt">准备一双专业球鞋，一个5号标准足球，穿上你最爱的舒适的球衣，即可加入我们的训练。</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">提供服务</h2>
-  <p class="post-excerpt">免费的天然足球场。标志碟，绳梯等训练器材。定期场次会有专业球员进行免费指导。</p>
+  <p class="post-excerpt">组织有序的训练。提供标志碟，绳梯等训练器材。定期场次会有高手进行指导。</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -25,7 +25,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">云协作</h2>
-  <p class="post-excerpt">所有训练项目和训练内容都会通过云协作平台进行分享。每个人有自己的专属空间，每一点进步都看的见。</p>  
+  <p class="post-excerpt">所有训练项目和训练内容都会通过直播软件分享。每个人都可以回顾自己训练，每一点进步都看的见。</p>  
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
