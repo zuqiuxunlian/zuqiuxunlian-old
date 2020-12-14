@@ -7,7 +7,7 @@ modified: 2015-04-27
 tags: [战术]
 comments: true
 share: false
-ads: true
+ads: false
 image: 
   feature: 
   teaser: 2015-04/one-two.jpg

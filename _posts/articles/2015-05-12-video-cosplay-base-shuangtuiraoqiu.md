@@ -6,7 +6,7 @@ modified:
 categories: articles
 excerpt: "双腿绕球热身."
 tags: [video]
-ads: true
+ads: false
 author: false
 share: false
 comments: true

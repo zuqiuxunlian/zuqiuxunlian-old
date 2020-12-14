@@ -7,7 +7,7 @@ modified: 2014-08-27
 tags: [camp]
 comments: true
 share: false
-ads: true
+ads: false
 image:
   feature: 
   teaser: 

@@ -12,7 +12,7 @@ image:
 author: false
 share: false
 comments: true
-ads: true
+ads: false
 ---
 
 ## 要求：

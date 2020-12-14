@@ -8,7 +8,7 @@ modified: 2015-12-20
 tags: [球队]
 comments: true
 share: false
-ads: true
+ads: false
 image:
   feature:
   teaser:

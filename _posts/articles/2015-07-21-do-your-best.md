@@ -7,7 +7,7 @@ modified: 2015-07-21
 tags: [战术]
 comments: true
 share: false
-ads: true
+ads: false
 image: 
   feature: 
   teaser: 

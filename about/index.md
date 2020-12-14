@@ -10,7 +10,7 @@ image:
   thumb:
 author: false
 share: false
-ads: true
+ads: false
 ---
 
 ## 联系方式

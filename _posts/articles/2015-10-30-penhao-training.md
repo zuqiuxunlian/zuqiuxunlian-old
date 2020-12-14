@@ -7,7 +7,7 @@ modified: 2015-10-30
 tags: [培训]
 comments: true
 share: false
-ads: true
+ads: false
 image:
   feature:
   teaser:
