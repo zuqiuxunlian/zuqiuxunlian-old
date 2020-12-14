@@ -4,8 +4,8 @@
   url: /getting-started/
   excerpt: "如何参加我们的训练."
   image: start.jpg
-  
-- title: 训练营文章
+
+- title: 训练文章
   url: /articles/
   excerpt: "最新发布的文章"
   image: start.jpg
@@ -13,11 +13,6 @@
 - title: 训练图片
   url: /media/
   excerpt: "最近发生的图片故事"
-  image: start.jpg
-  
-- title: 加入球队
-  url: /friends/
-  excerpt: "可加入训练营朋友自己组建的球队"
   image: start.jpg
 
 - title: 关于我们
