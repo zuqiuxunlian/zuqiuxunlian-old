@@ -5,8 +5,8 @@ description: "致力于提高足球技术的平台"
 logo: 120x120.gif
 teaser: start.jpg
 locale: en_CN
-url: //www.zuqiuxunlian.com
-cdn_url: //www.zuqiuxunlian.com
+url: //zuqiuxunlian.com
+cdn_url: //zuqiuxunlian.com
 feed:
   path: atom.xml
 
