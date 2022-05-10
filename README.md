@@ -2,4 +2,4 @@
 互助开放的致力于提高足球技术的平台
 
 ## 欢迎加入教练组，网站维护或宣传，请联系我。
-http://zuqiuxunlian.com
+http://old.zuqiuxunlian.com
